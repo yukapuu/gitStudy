@@ -1,6 +1,7 @@
 追加ファイルその１
 
-testBrunchブランチで編集
-
+ブランチで編集
+ConflictBruncで編集を追加
+競合を発生させるため
 ConflictBrunchと同じファイルをtestBrunchで編集。
 競合を発生させるため
